@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+  "author":  "Deisy Niño",  
+  "description": "A project where I practice npm and it does something amazing",
+  "keywords": [ "freecodecamp", "microservice", "guide" ],
+  "license": "ExampleLicense",
+  "version": "1.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
